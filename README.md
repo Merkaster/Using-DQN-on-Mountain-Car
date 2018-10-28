@@ -1,7 +1,7 @@
 # Using-DQN-on-Mountain-Car
 
 In this project we implement a Deep Neural Network to solve the Mountain Car -v0  problem of Open AI Gym.
-
+![Alt text](MountainCar.png?raw=true "MountainCar")
 
 You can click the link below to read about the environment:
                   https://gym.openai.com/envs/MountainCar-v0/
